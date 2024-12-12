@@ -73,5 +73,5 @@ email: 'weiqy412@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD student with the Department of Computer Science, The University of Manchester, under the supervision of Dr. Mauricio Alvarez and Prof. Richard Allmendinger. My research interests include Statistical Machine Learning, Bayesian Optimization, and Deep Learning. Prior to my enrollment at UoM, I earned my Master's degree from Shanghai University. I worked as a Research Assistant (Supported by SIPGA scholarship) at the Institute of Infocomm Research, A*Star, Singapore in 2023. Beyond academics, I enjoy video games, music and sports.
+I am a PhD student with the Department of Computer Science, The University of Manchester, under the supervision of Dr. Mauricio Alvarez and Prof. Richard Allmendinger. My research interests include Statistical Machine Learning, Bayesian Optimization, and Deep Learning. Prior to my enrollment at UoM, I earned my Master's degree from Shanghai University. I worked as a Research Assistant (Supported by SIPGA scholarship) at the Institute of Infocomm Research, A*Star, Singapore in 2023.
 {style="text-align: justify;"}
